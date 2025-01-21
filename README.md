@@ -38,7 +38,7 @@ This project is an Excel-based **Supermarket Sales Analysis Dashboard** that pro
   - Pivot Tables
   - Charts (Bar, Line, and Column charts)
   - Conditional Formatting
-  - Data Visualization techniques
+  - Data Visualization technique
 
 ## Objectives
 The main goal of this dashboard is to:
