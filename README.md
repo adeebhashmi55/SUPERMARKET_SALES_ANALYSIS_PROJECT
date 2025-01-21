@@ -55,4 +55,4 @@ The main goal of this dashboard is to:
 - **Average Ratings:** High customer satisfaction in categories like "Health and Beauty."
 
 ## Dashboard Preview
-<img src="DASHBOARD.png"/>&nbsp;
+<img src="DASHBOARD..png"/>&nbsp;
